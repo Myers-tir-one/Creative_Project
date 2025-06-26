@@ -5,15 +5,6 @@
 ```
 flutter pub get
 ```
-
-
-```
-flutter pub run build_ranner build
-```
-
-```
-chose ios / android
-```                    
 ___________________________________________________________________                                           
  assets:                                                     
  - assets/ava.png
