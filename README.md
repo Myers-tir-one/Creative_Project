@@ -64,9 +64,4 @@ Folder stucture
 │                                                      
 └── main.dar                                                 
 ________________________________________________________________________________________________                                                             
-app design- https://www.figma.com/design/YFIQ0o0c2VozfcVD5PQAxN/Matule-with-Style-guide-ORIG--Main-?node-id=13-4657&p=f&t=TuBsdzlr6V0YtHxU-0                                                     
-Figma
-Matule with Style guide ORIG (Main)
-Created with Figma
-Изображение
 
