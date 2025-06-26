@@ -16,16 +16,17 @@ chose ios / android
 ```                    
 ___________________________________________________________________                                           
  assets:                                                     
-assets/localization/en.json                                               
-assets/localization/ru.json                                   
- assets/bottombar.png                                  
- assets/2c705924fd56edd26a4546a27a004864553e05d9.png                                 
- assets/corsk.png                                
- assets/cros1.png                            
- assets/cros2.png                           
- assets/cros3.png                                    
- assets/men.png                                 
- assets/strih.png                                           
+ - assets/ava.png
+ - assets/banner.png
+ - assets/logo.png
+ - assets/spy.png
+ - assets/team.png
+ - assets/team1.png
+ - assets/team2.png
+ - assets/кепка.png
+ - assets/опасный.png
+ - assets/перчатки.png
+ - assets/целеус.png
 __________________________________________________                                                                                  
 Readme.md structure                                                                           
 
@@ -49,7 +50,7 @@ Folder stucture
 │ │ │ ├── user.dart                      
 │ │ │ └── ...                                       
 │ │ │                     
-│ │ ├── repository (... only CRUD)                                      
+│ │ ├── repository                                      
 │ │ │ ├── product_repository.dart                        
 │ │ │ ├── user_repository.dart                                              
 │ │ │ └── ...                                         
